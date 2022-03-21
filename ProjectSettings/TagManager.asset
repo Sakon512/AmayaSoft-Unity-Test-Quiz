@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - restart button
   - 
   - 
   - 
@@ -40,4 +40,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 2593201951
     locked: 0
